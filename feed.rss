@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+  <title>ElixirDose Jobs</title>
+  <link>http://jobs.elixirdose.com</link>
+  <description>Elixir Jobs is the best place to find, list jobs and developer community space specifically for Elixir Programming Language.</description>
+  <lastBuildDate>Thu, 25 Aug 2016 17:48:00 +0000</lastBuildDate>
+  <language>en-us</language>
+<item>
+  <title>Writer's Needed</title>
+  <description><![CDATA[ ## Job Descriptions
+
+This is job desc area
+
+     ]]></description>
+  <pubDate>Tue, 16 Jun 2015 07:37:14 +0000</pubDate>
+  <link>http://jobs.elixirdose.com/job/0dfce2de-4d57-4c4c-a7b1-af3f44d25dd4</link>
+  <guid>http://jobs.elixirdose.com/job/0dfce2de-4d57-4c4c-a7b1-af3f44d25dd4</guid>
+</item>
+</channel>
+</rss>
